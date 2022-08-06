@@ -1,0 +1,5 @@
+-* sobre mim
+- ola meu nome é Ágatha
+- meu email de contato é agatha.moraes10@escola.pr.gov.br
+- estou interessado em aprender linguagem da programação
+- recentemente estou aprendendo a progrmar no Javascript e no scratch
